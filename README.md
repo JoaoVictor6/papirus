@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Closed-critical">
+</div>
+
 # Papirus project
 <div align="center">
   <img alt="thumb" src="./assets/thumb.jpg" width="500">
